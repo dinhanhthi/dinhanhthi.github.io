@@ -1,0 +1,72 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dblore</title>
+        <item>
+            <title>0.10.1</title>
+            <pubDate>Fri, 13 Nov 2026 05:01:58 -0600</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/Dblore/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.10.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/dinhanhthi/Dblore/releases/download/v0.10.1/Dblore-0.10.1.dmg" length="27022677" type="application/octet-stream" sparkle:edSignature="X7dSzg/ZUIWVB00QYO6GOLTYzJY4C4cORR/BxY+v1mmn5Lx/2Wm3YttMZHxWO3CkH0t19estRAnx41M0oOLbDA=="/>
+        </item>
+        <item>
+            <title>0.10.0</title>
+            <pubDate>Wed, 11 Nov 2026 17:49:55 -0600</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/Dblore/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/dinhanhthi/Dblore/releases/download/v0.10.0/Dblore-0.10.0.dmg" length="26389463" type="application/octet-stream" sparkle:edSignature="IwWwNYhwN2B3xhVtL8Ow7Rm9fLvbaxPwxaPPyJuq6Pjv7AjYj3bbtNyJq7bEACqn4ntNliziukOJh9jWFGhsBA=="/>
+        </item>
+        <item>
+            <title>0.9.3</title>
+            <pubDate>Fri, 06 Nov 2026 05:58:05 -0600</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/Dblore/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.9.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/dinhanhthi/Dblore/releases/download/v0.9.3/Dblore-0.9.3.dmg" length="25778341" type="application/octet-stream" sparkle:edSignature="o86soSnb3Ggat8rP4RMdaNA7eHmOxMt+HrFdtale5LhfEWL2f9lzddN5yMAlBdJTRVCFm7d4YKiEDxXxVcFdAw=="/>
+        </item>
+        <item>
+            <title>0.3.2</title>
+            <pubDate>Tue, 29 Sep 2026 18:40:44 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/Dblore/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dinhanhthi/Dblore/releases/download/v0.3.2/Dblore-0.3.2.dmg" length="19054847" type="application/octet-stream" sparkle:edSignature="c1kidb6DlcdEp6t2djDX0EFMRAGsqrLl1H9Ntc96jks73vnE0hmcCn3MOeO9r3Za0Rlninige37kx6du7LBpDw=="/>
+        </item>
+        <item>
+            <title>0.3.1</title>
+            <pubDate>Tue, 29 Sep 2026 15:45:30 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/Dblore/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dinhanhthi/Dblore/releases/download/v0.3.1/SQLNotebook-0.3.1.dmg" length="19059796" type="application/octet-stream" sparkle:edSignature="plBr6HuErX8z84j22gBfalxJCUJEYSgQsl4k4EW4z9KA2UOgQAavbYSSeyNGreAV0qTYsguR3hvQkRa9LBR7Bg=="/>
+        </item>
+        <item>
+            <title>0.2.2</title>
+            <pubDate>Tue, 29 Sep 2026 08:36:24 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/Dblore/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dinhanhthi/Dblore/releases/download/v0.2.2/SQLNotebook-0.2.2.dmg" length="18182981" type="application/octet-stream" sparkle:edSignature="wtvy1BisPSv46TImNt23QorMFT7kSss02IBXjUBM4vpysNyWoq45R91vr7WGqHp6XWIkUAASOzcLqIqZcmbsDQ=="/>
+        </item>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 28 Sep 2026 11:26:23 +0000</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/Dblore/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dinhanhthi/Dblore/releases/download/v0.2.0/SQLNotebook-0.2.0.dmg" length="17749029" type="application/octet-stream" sparkle:edSignature="1FmV+e2B+rgl3/X6fkQ/zdsDhR//cFTRW3UKDAFRhxnFNiw/eW4lClJbee+zE9v2uV1Wx2MxEoy0qiSOMT3UAg=="/>
+        </item>
+    </channel>
+</rss>
