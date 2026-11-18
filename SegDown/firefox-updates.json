@@ -4,72 +4,72 @@
       "updates": [
         {
           "version": "0.6.5",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.6.5/SegDown-firefox-0.6.5.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.6.5/SegDown-firefox-0.6.5.xpi",
           "update_hash": "sha256:d93791f2212a6da06a1b219703dd2852b21d2769afbe68f9cd9a11139d85bfea"
         },
         {
           "version": "0.6.6",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.6.6/SegDown-firefox-0.6.6.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.6.6/SegDown-firefox-0.6.6.xpi",
           "update_hash": "sha256:deb35118706efec8a57198c5c4541173d54d2d4b27a1c15fd195f9c7fd35a80e"
         },
         {
           "version": "0.6.7",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.6.7/SegDown-firefox-0.6.7.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.6.7/SegDown-firefox-0.6.7.xpi",
           "update_hash": "sha256:8c126d9aeec1849fabada555cb71983606f18e4854aca5cc373398d4b1bc5ead"
         },
         {
           "version": "0.6.8",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.6.8/SegDown-firefox-0.6.8.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.6.8/SegDown-firefox-0.6.8.xpi",
           "update_hash": "sha256:a79c6bb1104fe497b99d159d3b7c5466e443d0374e3231943dd83ce4d9a261ce"
         },
         {
           "version": "0.6.9",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.6.9/SegDown-firefox-0.6.9.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.6.9/SegDown-firefox-0.6.9.xpi",
           "update_hash": "sha256:4ecd0e29b17db5484254af897d7a7243fd27c37e3997e5bf9a19b5c680f3b774"
         },
         {
           "version": "0.6.10",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.6.10/SegDown-firefox-0.6.10.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.6.10/SegDown-firefox-0.6.10.xpi",
           "update_hash": "sha256:4ed3de8e12f033d91160a94d84d7cdee2f7e21fa177a4fd2db81925239596f67"
         },
         {
           "version": "0.6.11",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.6.11/SegDown-firefox-0.6.11.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.6.11/SegDown-firefox-0.6.11.xpi",
           "update_hash": "sha256:f27c8691ed6feddb7ffd18ff4e7b242d7de26093767827be330e5e1beeb609d3"
         },
         {
           "version": "0.6.12",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.6.12/SegDown-firefox-0.6.12.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.6.12/SegDown-firefox-0.6.12.xpi",
           "update_hash": "sha256:941a6c55459ceb7a1f6a528ac32f010b49873b8b4a76d3fcb8f2147c12e06a7d"
         },
         {
           "version": "0.7.0",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.7.0/SegDown-firefox-0.7.0.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.7.0/SegDown-firefox-0.7.0.xpi",
           "update_hash": "sha256:d1587f8a7141f8286b2d259db1a7c71754d936e214f49a91f7b01cad020fd79f"
         },
         {
           "version": "0.7.1",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.7.1/SegDown-firefox-0.7.1.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.7.1/SegDown-firefox-0.7.1.xpi",
           "update_hash": "sha256:22c09cababd764242316005ca4b841fc83f4e81841534575a81b1b13dad13886"
         },
         {
           "version": "0.7.2",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.7.2/SegDown-firefox-0.7.2.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.7.2/SegDown-firefox-0.7.2.xpi",
           "update_hash": "sha256:f5c87725d5206960fd845059192ce8899f6f6c020506ae260048e4f2a1c1dddc"
         },
         {
           "version": "0.7.3",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.7.3/SegDown-firefox-0.7.3.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.7.3/SegDown-firefox-0.7.3.xpi",
           "update_hash": "sha256:07351d26c711c2b668bc147aa3002061a3b5af27d3c5167c12b3cc5c22f16af6"
         },
         {
           "version": "0.7.4",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.7.4/SegDown-firefox-0.7.4.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.7.4/SegDown-firefox-0.7.4.xpi",
           "update_hash": "sha256:38af7de91123b7752367ff8dd3e0ac5895f45d314f304529786552c926cb8a65"
         },
         {
           "version": "0.7.5",
-          "update_link": "https://github.com/dinhanhthi/SegDown/releases/download/v0.7.5/SegDown-firefox-0.7.5.xpi",
+          "update_link": "https://github.com/Coprimal/SegDown/releases/download/v0.7.5/SegDown-firefox-0.7.5.xpi",
           "update_hash": "sha256:43ee9bc8677f0bdc6187ec87e02f44b03375f10b47231bfad91050d10b947a7d"
         }
       ]
