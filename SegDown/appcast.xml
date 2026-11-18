@@ -2,231 +2,231 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>SegDown</title>
-        <link>https://dinhanhthi.github.io/SegDown/appcast.xml</link>
+        <link>https://segdown.coprimal.dev/appcast.xml</link>
         <item>
             <title>0.7.5</title>
             <pubDate>Wed, 11 Nov 2026 16:17:22 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>0.7.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.7.5/SegDown-0.7.5.zip" length="7819065" type="application/octet-stream" sparkle:edSignature="Ximek2gZLoucvLYH7pU0jI18EwHYF8K6zIPjs4PvkN+Y5UBuMOQzJ7XFNhUP7ZvRuLJq5lfdy3k2BWmJvfyMCA=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.7.5/SegDown-0.7.5.zip" length="7819065" type="application/octet-stream" sparkle:edSignature="Ximek2gZLoucvLYH7pU0jI18EwHYF8K6zIPjs4PvkN+Y5UBuMOQzJ7XFNhUP7ZvRuLJq5lfdy3k2BWmJvfyMCA=="/>
         </item>
         <item>
             <title>0.7.4</title>
             <pubDate>Tue, 10 Nov 2026 04:41:40 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>0.7.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.7.4/SegDown-0.7.4.zip" length="7815274" type="application/octet-stream" sparkle:edSignature="dLw8sArNaiJCjyGuRLVU/f9f0i+AHvscjXhjC9ZhcZgbgEo60Q5vMnSPbBIyYajAt9D4s5+0tSfD9nyYZZRdCA=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.7.4/SegDown-0.7.4.zip" length="7815274" type="application/octet-stream" sparkle:edSignature="dLw8sArNaiJCjyGuRLVU/f9f0i+AHvscjXhjC9ZhcZgbgEo60Q5vMnSPbBIyYajAt9D4s5+0tSfD9nyYZZRdCA=="/>
         </item>
         <item>
             <title>0.7.3</title>
             <pubDate>Mon, 09 Nov 2026 09:52:29 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>0.7.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.7.3/SegDown-0.7.3.zip" length="7794131" type="application/octet-stream" sparkle:edSignature="m3UKb2T6EV09Q8aLmH/jU2k7q+80npJFrYc+lb0v3o+w/ZxdjaF10hj1EEPH9nbtx5UqDlP6mWWSufSVhNs/Bw=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.7.3/SegDown-0.7.3.zip" length="7794131" type="application/octet-stream" sparkle:edSignature="m3UKb2T6EV09Q8aLmH/jU2k7q+80npJFrYc+lb0v3o+w/ZxdjaF10hj1EEPH9nbtx5UqDlP6mWWSufSVhNs/Bw=="/>
         </item>
         <item>
             <title>0.7.2</title>
             <pubDate>Mon, 09 Nov 2026 09:21:48 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>0.7.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.7.2/SegDown-0.7.2.zip" length="7782877" type="application/octet-stream" sparkle:edSignature="EUF9lT4j83DaKHVAKBDUm72Xm4w+EPWDE4PpmrafLHWPISXqRe+WOvxpguBA0ILbWqD6ut49Y6DZsWC79jXFAQ=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.7.2/SegDown-0.7.2.zip" length="7782877" type="application/octet-stream" sparkle:edSignature="EUF9lT4j83DaKHVAKBDUm72Xm4w+EPWDE4PpmrafLHWPISXqRe+WOvxpguBA0ILbWqD6ut49Y6DZsWC79jXFAQ=="/>
         </item>
         <item>
             <title>0.7.1</title>
             <pubDate>Sun, 08 Nov 2026 20:42:34 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>0.7.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.7.1/SegDown-0.7.1.zip" length="7727789" type="application/octet-stream" sparkle:edSignature="vrOITq38RU2j+wNseO7agEKYKovtGQ2hXlKljzzbDWQxmQMBqIOJuRWM6G+Ajh1VdQcjUmehhWgG4IR0GT0PDQ=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.7.1/SegDown-0.7.1.zip" length="7727789" type="application/octet-stream" sparkle:edSignature="vrOITq38RU2j+wNseO7agEKYKovtGQ2hXlKljzzbDWQxmQMBqIOJuRWM6G+Ajh1VdQcjUmehhWgG4IR0GT0PDQ=="/>
         </item>
         <item>
             <title>0.7.0</title>
             <pubDate>Sun, 08 Nov 2026 18:46:56 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>20</sparkle:version>
             <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.7.0/SegDown-0.7.0.zip" length="7727511" type="application/octet-stream" sparkle:edSignature="H20dnluMHr/Et7Uluh+8dF5abjvE3bznarb1kE19NPfDq1wmfiMG9OpDbBayZve9Xt2MhWEWnacDIWNORsJvBQ=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.7.0/SegDown-0.7.0.zip" length="7727511" type="application/octet-stream" sparkle:edSignature="H20dnluMHr/Et7Uluh+8dF5abjvE3bznarb1kE19NPfDq1wmfiMG9OpDbBayZve9Xt2MhWEWnacDIWNORsJvBQ=="/>
         </item>
         <item>
             <title>0.6.12</title>
             <pubDate>Fri, 06 Nov 2026 20:06:33 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>0.6.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.12/SegDown-0.6.12.zip" length="7261079" type="application/octet-stream" sparkle:edSignature="xBoR8qUYfBh3pf2d1IUjmqiU4CSeWFsbdrQUbjqqVwPM7wW6alUJAYonRNCzym6lsyd02yZ8UpQW8GbImBV8Ag=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.12/SegDown-0.6.12.zip" length="7261079" type="application/octet-stream" sparkle:edSignature="xBoR8qUYfBh3pf2d1IUjmqiU4CSeWFsbdrQUbjqqVwPM7wW6alUJAYonRNCzym6lsyd02yZ8UpQW8GbImBV8Ag=="/>
         </item>
         <item>
             <title>0.6.11</title>
             <pubDate>Fri, 30 Oct 2026 21:31:54 +0100</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.6.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.11/SegDown-0.6.11.zip" length="7242141" type="application/octet-stream" sparkle:edSignature="kACQkrpwud4+BQjWTeafvQub6lQQOxW6H3XatL1Kg8yd3qXwT1iVYGT1m4wnE+THS4ZxyNH0rCTSk6NBDCCoAQ=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.11/SegDown-0.6.11.zip" length="7242141" type="application/octet-stream" sparkle:edSignature="kACQkrpwud4+BQjWTeafvQub6lQQOxW6H3XatL1Kg8yd3qXwT1iVYGT1m4wnE+THS4ZxyNH0rCTSk6NBDCCoAQ=="/>
         </item>
         <item>
             <title>0.6.10</title>
             <pubDate>Tue, 27 Oct 2026 13:51:40 +0100</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>17</sparkle:version>
             <sparkle:shortVersionString>0.6.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.10/SegDown-0.6.10.zip" length="7245446" type="application/octet-stream" sparkle:edSignature="qapGWfiBgzMRo7Jgy7TjkUjIVkrpWef+t4wavw719ViVcWi+SSwOEYV1WyojedJPTrEuVcvHyx3mTO1eNmRRCQ=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.10/SegDown-0.6.10.zip" length="7245446" type="application/octet-stream" sparkle:edSignature="qapGWfiBgzMRo7Jgy7TjkUjIVkrpWef+t4wavw719ViVcWi+SSwOEYV1WyojedJPTrEuVcvHyx3mTO1eNmRRCQ=="/>
         </item>
         <item>
             <title>0.6.9</title>
             <pubDate>Fri, 23 Oct 2026 17:56:46 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>16</sparkle:version>
             <sparkle:shortVersionString>0.6.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.9/SegDown-0.6.9.zip" length="6859282" type="application/octet-stream" sparkle:edSignature="PXQfbpLC96m5nE6m97DFQsnDN/6R9GmHUMpTgC/h/oUHuVfGCWrRcfDIRG+EhrZu9N2SiaAViGausWOtDc8zDw=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.9/SegDown-0.6.9.zip" length="6859282" type="application/octet-stream" sparkle:edSignature="PXQfbpLC96m5nE6m97DFQsnDN/6R9GmHUMpTgC/h/oUHuVfGCWrRcfDIRG+EhrZu9N2SiaAViGausWOtDc8zDw=="/>
         </item>
         <item>
             <title>0.6.8</title>
             <pubDate>Fri, 23 Oct 2026 17:22:06 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>0.6.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.8/SegDown-0.6.8.zip" length="6851335" type="application/octet-stream" sparkle:edSignature="V32JVvDPhTgMjDMzIR9c2SaUl4bCdkx8fNvdWPMfh1CijAt1DOywofcsky3r/hutMrgdgrYy89e8IQPukv0hBw=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.8/SegDown-0.6.8.zip" length="6851335" type="application/octet-stream" sparkle:edSignature="V32JVvDPhTgMjDMzIR9c2SaUl4bCdkx8fNvdWPMfh1CijAt1DOywofcsky3r/hutMrgdgrYy89e8IQPukv0hBw=="/>
         </item>
         <item>
             <title>0.6.7</title>
             <pubDate>Thu, 22 Oct 2026 13:56:44 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>14</sparkle:version>
             <sparkle:shortVersionString>0.6.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.7/SegDown-0.6.7.zip" length="6844863" type="application/octet-stream" sparkle:edSignature="pMzp2Fc7wwJrpMG0hrMLAAtb9ufFx3YQBvtrF7fDjUcppRnbt4hcmE1/JNU/TzRUOv9nBl6dd99gxwtqFtL7DQ=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.7/SegDown-0.6.7.zip" length="6844863" type="application/octet-stream" sparkle:edSignature="pMzp2Fc7wwJrpMG0hrMLAAtb9ufFx3YQBvtrF7fDjUcppRnbt4hcmE1/JNU/TzRUOv9nBl6dd99gxwtqFtL7DQ=="/>
         </item>
         <item>
             <title>0.6.6</title>
             <pubDate>Thu, 22 Oct 2026 12:36:52 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>0.6.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.6/SegDown-0.6.6.zip" length="6831330" type="application/octet-stream" sparkle:edSignature="Ns0QYg97ZoTHW8Vtl+HWjh8DOafzcRk0ENqsrSvMNUS3kS5609knpQdoiF/M4FpAiTOWqy58L2aXcST6VmErAQ=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.6/SegDown-0.6.6.zip" length="6831330" type="application/octet-stream" sparkle:edSignature="Ns0QYg97ZoTHW8Vtl+HWjh8DOafzcRk0ENqsrSvMNUS3kS5609knpQdoiF/M4FpAiTOWqy58L2aXcST6VmErAQ=="/>
         </item>
         <item>
             <title>0.6.5</title>
             <pubDate>Thu, 22 Oct 2026 12:01:47 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>0.6.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.5/SegDown-0.6.5.zip" length="6797835" type="application/octet-stream" sparkle:edSignature="CLfTJ1FzD3lD8eTNOp3ttkKfiqqK41fJS71gs1/Knzmt+Kv8uBLHUyW0W3OVM07QY62oMF1cuYlwkglmn/fTCA=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.5/SegDown-0.6.5.zip" length="6797835" type="application/octet-stream" sparkle:edSignature="CLfTJ1FzD3lD8eTNOp3ttkKfiqqK41fJS71gs1/Knzmt+Kv8uBLHUyW0W3OVM07QY62oMF1cuYlwkglmn/fTCA=="/>
         </item>
         <item>
             <title>0.6.4</title>
             <pubDate>Thu, 22 Oct 2026 10:05:03 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.4/SegDown-0.6.4.zip" length="6779512" type="application/octet-stream" sparkle:edSignature="8qn3/zZaEGAT70buCH6IvCy1/ZLTfK2Dx0gM3Wm9qTJNBeo2ChBz/cldOXI9cwDaM9sbwnk7KLCgrWoRgQKYDw=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.4/SegDown-0.6.4.zip" length="6779512" type="application/octet-stream" sparkle:edSignature="8qn3/zZaEGAT70buCH6IvCy1/ZLTfK2Dx0gM3Wm9qTJNBeo2ChBz/cldOXI9cwDaM9sbwnk7KLCgrWoRgQKYDw=="/>
         </item>
         <item>
             <title>0.6.3</title>
             <pubDate>Thu, 22 Oct 2026 00:09:43 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.3/SegDown-0.6.3.zip" length="6779818" type="application/octet-stream" sparkle:edSignature="DfqQDrxMy9EEGNFajkz2foFWn2YFwHxG0QW6HEN9cPfeN7AE2Rn22xeOeVWpa5p5VAI113cG7VUwTLdgksbmCw=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.3/SegDown-0.6.3.zip" length="6779818" type="application/octet-stream" sparkle:edSignature="DfqQDrxMy9EEGNFajkz2foFWn2YFwHxG0QW6HEN9cPfeN7AE2Rn22xeOeVWpa5p5VAI113cG7VUwTLdgksbmCw=="/>
         </item>
         <item>
             <title>0.6.2</title>
             <pubDate>Wed, 21 Oct 2026 23:08:41 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.2/SegDown-0.6.2.zip" length="6776967" type="application/octet-stream" sparkle:edSignature="bpyR/p57TcyOWJk/nJE7f5+BegKZLydELsDDA6QWYyGxhnqwB5xTThH7n691vBW431rXAAoHNqMFWE1OEvSNBA=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.2/SegDown-0.6.2.zip" length="6776967" type="application/octet-stream" sparkle:edSignature="bpyR/p57TcyOWJk/nJE7f5+BegKZLydELsDDA6QWYyGxhnqwB5xTThH7n691vBW431rXAAoHNqMFWE1OEvSNBA=="/>
         </item>
         <item>
             <title>0.6.1</title>
             <pubDate>Wed, 21 Oct 2026 20:34:53 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.1/SegDown-0.6.1.zip" length="6422401" type="application/octet-stream" sparkle:edSignature="rHgm2SwEDZsM/9XIFJJuJjZ1RvxmFZOT/3lkDAL3s1Q/ee4PR8SSYn86NpFrLE+V+aNT+N29YokXJL7/I+SdAw=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.1/SegDown-0.6.1.zip" length="6422401" type="application/octet-stream" sparkle:edSignature="rHgm2SwEDZsM/9XIFJJuJjZ1RvxmFZOT/3lkDAL3s1Q/ee4PR8SSYn86NpFrLE+V+aNT+N29YokXJL7/I+SdAw=="/>
         </item>
         <item>
             <title>0.6.0</title>
             <pubDate>Wed, 21 Oct 2026 19:08:17 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.6.0/SegDown-0.6.0.zip" length="6412642" type="application/octet-stream" sparkle:edSignature="Wb9oC/Ek+W9I+ajwK9m3nCm7xry2qEqKlfvVTwIX/VhR2waph4ffyIkEJiU9s2pZdjOUeWwMjMRLR9lLKMm/Bg=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.6.0/SegDown-0.6.0.zip" length="6412642" type="application/octet-stream" sparkle:edSignature="Wb9oC/Ek+W9I+ajwK9m3nCm7xry2qEqKlfvVTwIX/VhR2waph4ffyIkEJiU9s2pZdjOUeWwMjMRLR9lLKMm/Bg=="/>
         </item>
         <item>
             <title>0.5.1</title>
             <pubDate>Wed, 21 Oct 2026 14:34:29 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.5.1/SegDown-0.5.1.zip" length="6279468" type="application/octet-stream" sparkle:edSignature="GtV2QKZYt36JYJFSIektZaOyKS8V4yQBed015yCN1uAaR+GVdky4EWy8PiYtgYINYhxcrz4YKz6m7FxJUC+kBA=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.5.1/SegDown-0.5.1.zip" length="6279468" type="application/octet-stream" sparkle:edSignature="GtV2QKZYt36JYJFSIektZaOyKS8V4yQBed015yCN1uAaR+GVdky4EWy8PiYtgYINYhxcrz4YKz6m7FxJUC+kBA=="/>
         </item>
         <item>
             <title>0.5.0</title>
             <pubDate>Wed, 21 Oct 2026 14:09:51 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.5.0/SegDown-0.5.0.zip" length="6277129" type="application/octet-stream" sparkle:edSignature="KnLR1uwg+cVGmbqAh9mofNbeJAUT+kgUUtOdZYMyGLR2xsrZFeR7mUikDxC+J988XnRVy1Ksj4VqIOfruTT8Bg=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.5.0/SegDown-0.5.0.zip" length="6277129" type="application/octet-stream" sparkle:edSignature="KnLR1uwg+cVGmbqAh9mofNbeJAUT+kgUUtOdZYMyGLR2xsrZFeR7mUikDxC+J988XnRVy1Ksj4VqIOfruTT8Bg=="/>
         </item>
         <item>
             <title>0.4.0</title>
             <pubDate>Wed, 21 Oct 2026 12:08:14 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.4.0/SegDown-0.4.0.zip" length="6203048" type="application/octet-stream" sparkle:edSignature="ubq4ZSGAv7g+79uERvj1hw/gLGjcqKAhBYyOhp4e5LwBrIiAJzG78/t1KgoZ6fC5ELYO8WQ32cpEHVqgizcmDw=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.4.0/SegDown-0.4.0.zip" length="6203048" type="application/octet-stream" sparkle:edSignature="ubq4ZSGAv7g+79uERvj1hw/gLGjcqKAhBYyOhp4e5LwBrIiAJzG78/t1KgoZ6fC5ELYO8WQ32cpEHVqgizcmDw=="/>
         </item>
         <item>
             <title>0.3.0</title>
             <pubDate>Wed, 21 Oct 2026 10:50:58 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.3.0/SegDown-0.3.0.zip" length="6398029" type="application/octet-stream" sparkle:edSignature="ncStRa7v5UyhUZUBHcH4u7sr8PPe2OfI1xSjrwvuJI8WQrujmcjD1y+iJjCz713WiQsmJt555aQ8UzGW7kYFCg=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.3.0/SegDown-0.3.0.zip" length="6398029" type="application/octet-stream" sparkle:edSignature="ncStRa7v5UyhUZUBHcH4u7sr8PPe2OfI1xSjrwvuJI8WQrujmcjD1y+iJjCz713WiQsmJt555aQ8UzGW7kYFCg=="/>
         </item>
         <item>
             <title>0.2.1</title>
             <pubDate>Wed, 21 Oct 2026 08:22:18 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.2.1/SegDown-0.2.1.zip" length="6309761" type="application/octet-stream" sparkle:edSignature="G59r+Zf/wVWvX6bEDktSjMKj3jU2mM8gs58vKL6UUN2xviFNcdmzl1JOv8M5n6JXvGtbm9mFFIgY6EVXohyWAQ=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.2.1/SegDown-0.2.1.zip" length="6309761" type="application/octet-stream" sparkle:edSignature="G59r+Zf/wVWvX6bEDktSjMKj3jU2mM8gs58vKL6UUN2xviFNcdmzl1JOv8M5n6JXvGtbm9mFFIgY6EVXohyWAQ=="/>
         </item>
         <item>
             <title>0.2.0</title>
             <pubDate>Wed, 21 Oct 2026 07:57:03 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/SegDown/blob/main/CHANGELOG.md</sparkle:fullReleaseNotesLink>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/SegDown/releases/download/v0.2.0/SegDown-0.2.0.zip" length="6302384" type="application/octet-stream" sparkle:edSignature="hq/roz/SiYtIYwY4CmP9Lq+f8TIh//p2nwtcBXQY+q6PWRk/kv0bn4eqjhdZ0qOgusCJMnDET9xer/n4arVMCw=="/>
+            <enclosure url="https://github.com/Coprimal/SegDown/releases/download/v0.2.0/SegDown-0.2.0.zip" length="6302384" type="application/octet-stream" sparkle:edSignature="hq/roz/SiYtIYwY4CmP9Lq+f8TIh//p2nwtcBXQY+q6PWRk/kv0bn4eqjhdZ0qOgusCJMnDET9xer/n4arVMCw=="/>
         </item>
     </channel>
 </rss>
