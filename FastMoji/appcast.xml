@@ -3,49 +3,58 @@
     <channel>
         <title>FastMoji</title>
         <item>
+            <title>1.0.2</title>
+            <pubDate>Wed, 18 Nov 2026 12:01:56 -0600</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/FastMoji/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Coprimal/FastMoji/releases/download/v1.0.2/FastMoji-1.0.2.zip" length="5744444" type="application/octet-stream" sparkle:edSignature="Hz20aeRR1cgqckHu/xUIvdOI91x8GUx2HMN0ZQNNqUb9ZFqFowtA/4sa7T8fwTPjqMdbVPZ5UEpihUSOz2TdBw=="/>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Wed, 11 Nov 2026 16:14:42 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/FastMoji/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/FastMoji/releases</sparkle:fullReleaseNotesLink>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/FastMoji/releases/download/v1.0.1/FastMoji-1.0.1.zip" length="5743691" type="application/octet-stream" sparkle:edSignature="tBuvK4OFv1k0m7uyXYBc0a9rXNHpyGmO3oP+qglGrVGMbVQh1iVluqcxoYtt3jhSbvn/EAavc0hMqFqP9AoVCg=="/>
+            <enclosure url="https://github.com/Coprimal/FastMoji/releases/download/v1.0.1/FastMoji-1.0.1.zip" length="5743691" type="application/octet-stream" sparkle:edSignature="tBuvK4OFv1k0m7uyXYBc0a9rXNHpyGmO3oP+qglGrVGMbVQh1iVluqcxoYtt3jhSbvn/EAavc0hMqFqP9AoVCg=="/>
         </item>
         <item>
             <title>1.0.0</title>
             <pubDate>Sat, 17 Oct 2026 21:24:21 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/FastMoji/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/FastMoji/releases</sparkle:fullReleaseNotesLink>
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/FastMoji/releases/download/v1.0.0/FastMoji-1.0.0.zip" length="5740741" type="application/octet-stream" sparkle:edSignature="923k71kbE2p5mG/uszXt3lgejx3lY9oPxqzi09hLynxUmJUOwgpIyEp+AMgZqKuD0oVForjDKCuppqaFvNC8AA=="/>
+            <enclosure url="https://github.com/Coprimal/FastMoji/releases/download/v1.0.0/FastMoji-1.0.0.zip" length="5740741" type="application/octet-stream" sparkle:edSignature="923k71kbE2p5mG/uszXt3lgejx3lY9oPxqzi09hLynxUmJUOwgpIyEp+AMgZqKuD0oVForjDKCuppqaFvNC8AA=="/>
         </item>
         <item>
             <title>0.1.2</title>
             <pubDate>Fri, 16 Oct 2026 23:35:01 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/FastMoji/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/FastMoji/releases</sparkle:fullReleaseNotesLink>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/FastMoji/releases/download/v0.1.2/FastMoji-0.1.2.zip" length="4580574" type="application/octet-stream" sparkle:edSignature="8/jO619AQOEE3kCkfJKMg/bRyYBGCUWKR5l1cfkf8CvQx8lQSkjBHgTB5Khanv2nBNF6RUGrMKFZU6ii+nHDCQ=="/>
+            <enclosure url="https://github.com/Coprimal/FastMoji/releases/download/v0.1.2/FastMoji-0.1.2.zip" length="4580574" type="application/octet-stream" sparkle:edSignature="8/jO619AQOEE3kCkfJKMg/bRyYBGCUWKR5l1cfkf8CvQx8lQSkjBHgTB5Khanv2nBNF6RUGrMKFZU6ii+nHDCQ=="/>
         </item>
         <item>
             <title>0.1.1</title>
             <pubDate>Fri, 16 Oct 2026 23:18:39 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/FastMoji/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/FastMoji/releases</sparkle:fullReleaseNotesLink>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/FastMoji/releases/download/v0.1.1/FastMoji-0.1.1.zip" length="4577486" type="application/octet-stream" sparkle:edSignature="kgeul9+qlS/MB6HaPz8TRFjVQDtpzkVwhiuo3fAHFCozn6R1Ga0+3VmFeKQJkfdaQEMCBGPkGG+npbFrWdVNDw=="/>
+            <enclosure url="https://github.com/Coprimal/FastMoji/releases/download/v0.1.1/FastMoji-0.1.1.zip" length="4577486" type="application/octet-stream" sparkle:edSignature="kgeul9+qlS/MB6HaPz8TRFjVQDtpzkVwhiuo3fAHFCozn6R1Ga0+3VmFeKQJkfdaQEMCBGPkGG+npbFrWdVNDw=="/>
         </item>
         <item>
             <title>0.1.0</title>
             <pubDate>Fri, 16 Oct 2026 22:55:32 +0200</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/dinhanhthi/FastMoji/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/FastMoji/releases</sparkle:fullReleaseNotesLink>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dinhanhthi/FastMoji/releases/download/v0.1.0/FastMoji-0.1.0.zip" length="4576847" type="application/octet-stream" sparkle:edSignature="e3/x7ueefGgHd6b8DQop+hWctahpWlrX3QnG90t12jsaHppGLt5gek6FVUkXMe37z/qG/zvtmsZsgxKWlxC/DQ=="/>
+            <enclosure url="https://github.com/Coprimal/FastMoji/releases/download/v0.1.0/FastMoji-0.1.0.zip" length="4576847" type="application/octet-stream" sparkle:edSignature="e3/x7ueefGgHd6b8DQop+hWctahpWlrX3QnG90t12jsaHppGLt5gek6FVUkXMe37z/qG/zvtmsZsgxKWlxC/DQ=="/>
         </item>
     </channel>
 </rss>
