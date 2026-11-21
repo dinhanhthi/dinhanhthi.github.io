@@ -3,13 +3,29 @@
     <channel>
         <title>PopGuy</title>
         <item>
+            <title>1.4.14</title>
+            <pubDate>Fri, 20 Nov 2026 22:19:54 -0600</pubDate>
+            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/PopGuy/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.4.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.14/PopGuy-1.4.14.zip" length="21804697" type="application/octet-stream" sparkle:edSignature="CBc/WiyZJ3raxlLe30ODBToPs22C9V6lea3COhJR+uljDGLVVWGy0qNpZddvvune+sMh24V+myJET0WmYcSlBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.14/PopGuy45-44.delta" sparkle:deltaFrom="44" length="395770" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WwRaMjCOhbGlminmgsYGtlD1Il//L8J+cBt+FcRhNiKf2PpGqnm/Vtz/8vhS4TjrlevvSodtWhvYliKGI2dRDw=="/>
+                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.14/PopGuy45-43.delta" sparkle:deltaFrom="43" length="633750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XFZsAhaueGu1zVVrlIVrvHUX8641gNGsy6ugKV3EWTxpJbdewXa8D/E1D4MaYiBOz9Arh2DXXJk74qvq682CAA=="/>
+                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.14/PopGuy45-42.delta" sparkle:deltaFrom="42" length="636782" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Wbl7FQIeL86VhyAvyPV8Fdv6D3Mtb15WlPS6rE02g49LVmnOUVGfmAS8G0LOioT/HnYxiuzhl56GhgOAwD0IAA=="/>
+                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.14/PopGuy45-41.delta" sparkle:deltaFrom="41" length="640618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IHFVYi2NxGd4RdZOIygJX8o69anC69TJr1muuONkiuNEvy9IHsnJE/bFYGabK2jN9MZfXGf9/ukkWg5NNb7YBA=="/>
+                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.14/PopGuy45-40.delta" sparkle:deltaFrom="40" length="1356554" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j6A31GNxue27aoL8G4Xk7YHZftK72jUhIM5jQwE0uCJMDz9INACOXmfFk3T9emxw/v2aaSwcZKx5hDs+RE7YCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.4.13</title>
             <pubDate>Thu, 19 Nov 2026 16:22:35 -0600</pubDate>
             <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/PopGuy/releases</sparkle:fullReleaseNotesLink>
             <sparkle:version>44</sparkle:version>
             <sparkle:shortVersionString>1.4.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.13/PopGuy-1.4.13.zip" length="21800664" type="application/octet-stream" sparkle:edSignature="3BoHg7h25NecT/SMWPLcww2qZ8lxP30VtQ3eX3x6QkNP5+bUUS0+lKrcrXqooxStxfmQVdxGIwyEHQvwnGhuDA=="/>
+            <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.14/PopGuy-1.4.13.zip" length="21800664" type="application/octet-stream" sparkle:edSignature="3BoHg7h25NecT/SMWPLcww2qZ8lxP30VtQ3eX3x6QkNP5+bUUS0+lKrcrXqooxStxfmQVdxGIwyEHQvwnGhuDA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.13/PopGuy44-43.delta" sparkle:deltaFrom="43" length="596326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="4qjayH/v/rqh5J+kPvMrWUZNzkPeVg2wHdboAVlouVlwomS0xD5twpqj8zPWCm8AVtsOZtlHXBHQnuS/uALKDQ=="/>
                 <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.13/PopGuy44-42.delta" sparkle:deltaFrom="42" length="601754" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RFl1dnnZO8Np27xECravyASe53PcGaO67sBboyLniFAECok80PCM4A1QbzMuwRArDkYNC4+EIFFTy5ap1n/zCA=="/>
@@ -25,29 +41,13 @@
             <sparkle:version>43</sparkle:version>
             <sparkle:shortVersionString>1.4.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.13/PopGuy-1.4.12.zip" length="21789789" type="application/octet-stream" sparkle:edSignature="JU35v6S8+MUlttfTxeJSPo1jGnTF4e9LIehJisx9BmOCXgd3xqR7uRw/aqeUGgwUJdcb7qFt8EdLRLlZI6WhCQ=="/>
+            <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.14/PopGuy-1.4.12.zip" length="21789789" type="application/octet-stream" sparkle:edSignature="JU35v6S8+MUlttfTxeJSPo1jGnTF4e9LIehJisx9BmOCXgd3xqR7uRw/aqeUGgwUJdcb7qFt8EdLRLlZI6WhCQ=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.12/PopGuy43-42.delta" sparkle:deltaFrom="42" length="135642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gU18iYskq3aatU4WXi/GjZdLQPXFal5igZV001s+6qJAwpjv3LJoLXLECebc8qJhg6IUKGzsQBIyBMSGKsYfBQ=="/>
                 <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.12/PopGuy43-41.delta" sparkle:deltaFrom="41" length="480654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="X2KI8coAfbzu1hn2oPdSA8UpECGfH4Rmj45bFAU0TzhBzG9prX9ZnqG6tVFxJ7BNieHN1+qXfEL+oxslIbyDAQ=="/>
                 <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.12/PopGuy43-40.delta" sparkle:deltaFrom="40" length="1310022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tEepj9JFo/3VnmlZZV6nhC6X3mokUz2iC4fni3x+BQ1YeSYBvMxidk7BpFU37eusxHYu2rqiJwvQeW63uw2WDw=="/>
                 <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.12/PopGuy43-39.delta" sparkle:deltaFrom="39" length="2077174" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7N1o2TtrcsDwbuLrHCCN6Ap9sruPnCQWnrRuxUABoj1/tY9UedVz8aAHi9bV70ijrfmfyESq+L//jnD+szZPCQ=="/>
                 <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.12/PopGuy43-38.delta" sparkle:deltaFrom="38" length="2076614" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gabB1mxqeT4/RwXUYRDeu9NSCGRPm+dQuTqVqU3okT5siylur+jQdWPnADpMVqMduLDPMPXTcswe7EuEgqk8CQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.4.11</title>
-            <pubDate>Wed, 11 Nov 2026 16:28:17 -0600</pubDate>
-            <sparkle:fullReleaseNotesLink>https://github.com/Coprimal/PopGuy/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>42</sparkle:version>
-            <sparkle:shortVersionString>1.4.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.13/PopGuy-1.4.11.zip" length="21789718" type="application/octet-stream" sparkle:edSignature="j8tcLakeredDomPC8gZPADcxijc+kqjUcmbZKruA61YchVSkAVws8aB8W3BMVpslWfqgESO+FlO8tlKpknJ8AA=="/>
-            <sparkle:deltas>
-                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.11/PopGuy42-41.delta" sparkle:deltaFrom="41" length="476534" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P0F6Y0c19LyWUcdxPR0Qv6QV6GA4YbMJGJirQsvvOdGPZyb8h7j6+1gQe6JD7daYa39aYjUh7cW9af2uTxTQAA=="/>
-                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.11/PopGuy42-40.delta" sparkle:deltaFrom="40" length="1308926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="npCoyfjSR+TQ2j8yZ4XRuJUFmKvuQ5k5xxuOgeyJMt3FJxf8R50JN5CIV0OioRAKfKAme+j3cpuDGACtsX+xDg=="/>
-                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.11/PopGuy42-39.delta" sparkle:deltaFrom="39" length="2076274" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RrJnKnOv/Bm2NI/9CnDZIZkOuww1NSnyZbiJldvQvaQx6NAdfgBPm9tfbnjyqU6Gu1qhbRWkOyhra8FT8NtoDw=="/>
-                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.11/PopGuy42-38.delta" sparkle:deltaFrom="38" length="2073298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="GKfiXf5F/L/OYW95g/qY6Z7TTBZNEEysLbm3THvUlLlrJR+j+rRlD6r7SVrzwwwWPj3NLsWEZS2y/d/ta2zuDQ=="/>
-                <enclosure url="https://github.com/Coprimal/PopGuy/releases/download/v1.4.11/PopGuy42-37.delta" sparkle:deltaFrom="37" length="2587430" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="z/PDyPhtdtU50ArklIP5FcRBSf0axlgM1gXBo8BTUiFKUky3a2rM8wx3k14J9ymHnCv52/w2xN9jgP1iyvZnAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
